@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CarDisplay</string>
+    <string name="title">Cars Available</string>
+    <string name="car_display_button">Show Cars</string>
+</resources>
